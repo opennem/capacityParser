@@ -1,7 +1,7 @@
 ![logo](https://openelectricity.org.au/img/logo.svg)
 
 
-# ISP Workbook Parser
+# Capacity Parser
 
 This is a jupyter notebook used for generating JSON representations of historical generation capacity.
 
