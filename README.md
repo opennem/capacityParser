@@ -26,7 +26,7 @@ It draws from the [au_facilities.json](https://data.dev.opennem.org.au/v3/geo/au
 
 * **Unified annual file**
 
-   A JSON file `unified_annual.json` is generated that contains the capacity in operation on the first day of the financial year for each facility for each region as well as a NEM and AU.
+   A JSON file `unified_annual_capacity.json` is generated that contains the capacity in operation on the first day of the financial year for each facility for each region as well as a NEM and AU.
 
 
 ## Notes
